@@ -6,3 +6,5 @@
 -  cena 1:  Tang  Lung  aparece no Aeroporto
 
 -  cena 2:  Tang  Lung  meet  Chuck Norris 
+
+-  cena 3:  Tang  Lung  Win the fight 
